@@ -41,7 +41,6 @@ Publications
   {% endfor %}</ul>
 
 {::comment}
-
 Teaching
 ======
    <ul>{% for post in site.teaching reversed %}
