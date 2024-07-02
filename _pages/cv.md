@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, University of Colorado Boulder, 2024
+* M.S. in Mathematics, Air Force Institute of Technology, 2018
+* B.S. in Mathematics and Physics, United States Air Force Academy, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2021: Operations Research Analyst
+  * USAF Air Mobility Command
+  * Duties included:
+    * Oversees critical analyses of mobility forces; impacts 125K personnel, 1K aircraft, & $35B in assets at 860 locations   
+    * Conducts studies/research for HQ AMC, USAF, JCS, OSD & Congress in support of multi-$B acquisition decisions
+    * Leads advanced analytical modeling efforts; impacts warfighting effectiveness, DoD policy and economic trade-offs
+    * Forms and leads matrixed teams to provide analytic/assessment expertise to HQ AMC, 18 AF, USAF EC, & USTC
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Numerical Methods
+* Coding
+  * MATLAB
+  * Python
+  * Mathematica
 
 Publications
 ======
@@ -47,18 +40,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+{%
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+%}
