@@ -12,7 +12,7 @@ title                    : "Andrew Lawrence"
 title_separator          : "-"
 name                     : &name "Andrew Lawrence"
 description              : &description "Researcher and Assistant Professor of Mathematics"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://andplaw.github.io"
+url                      : https://andplaw.github.io # the base hostname & protocol for your site e.g. "https://andplaw.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andplaw.github.io"
 
