@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Andrew's home on the web!
+Welcome to my website! 
